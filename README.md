@@ -29,15 +29,15 @@ Criei este projeto para praticar programação com Python e melhorar minha lógi
 ### ⚙️ Instalação
 
 1. Clone o repositório:
-
+```
 git clone https://github.com/seu-usuario/calculadora-simples.git
 cd calculadora-simples
-
-2. Instale as dependências:
-
+```
+3. Instale as dependências:
+```
 pip install flet
-
+```
 3: Execute o projeto:
-
+```
 python calculadora-simples.py
-
+```
